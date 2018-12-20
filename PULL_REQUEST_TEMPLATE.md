@@ -21,5 +21,5 @@
 
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 - [ ] I have confirmed that any link(s) in my PR are valid.
-- [ ] Any new links to resources outside this repository are single lines and are in alphabetical.
+- [ ] Any new links to resources outside this repository are single lines and are in alphabetical order.
 - [ ] All new and existing tests passed.

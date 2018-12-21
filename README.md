@@ -8,3 +8,4 @@
 A collection of hopefully useful document templates for engineering orgs
 
 * [Engineering Design Document Template](https://github.com/unixorn/engineering-docs/blob/master/Engineering_Design_Document.md) - An engineering project design document template inspired by one of the internal ones I saw in the chocolate factory.
+* [Monitoring Guidelines](https://github.com/unixorn/engineering-docs/blob/master/Monitoring-Guidelines.md) - A brief list of guidelines for good monitoring dashboards.

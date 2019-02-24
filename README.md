@@ -1,7 +1,7 @@
 # engineering-docs
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Build Status](https://travis-ci.org/unixorn/engineering-docs.svg?branch=master)](https://travis-ci.org/unixorn/engineering-docs)
+[![CircleCI](https://circleci.com/gh/unixorn/chocolate-factory-engineering-docs.svg?style=shield)](https://circleci.com/gh/unixorn/chocolate-factory-engineering-docs)
 [![GitHub stars](https://img.shields.io/github/stars/unixorn/engineering-docs.svg)](https://github.com/unixorn/engineering-docs/stargazers)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/unixorn/engineering-docs/master.svg)](https://github.com/unixorn/engineering-docs)
 

@@ -13,4 +13,4 @@ jobs:
 
       - run:
           name: Check README.md
-          command: awesome_bot README.md --allow-dupe --allow-redirect --white-list https://ipfs.io,https://img.shields.io,https://codeclimate.com/github/unixorn/engineering-docs
+          command: awesome_bot README.md --request-delay 1 --allow-dupe --allow-redirect --white-list https://ipfs.io,https://img.shields.io,https://codeclimate.com/github/unixorn/engineering-docs

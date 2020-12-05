@@ -1,8 +1,8 @@
 # Alerting Guidelines
 
-* **Be Specific:** Include the full, human readable name AND DNS name of the service which is alerting.
-* **Include Priority:** Is this a performance issue? Is this going to cause a site outage if not triaged? Or is this page indicative of a site outage? Pages should be specific about their Urgency (low, medium, high). Remember though, if everything is high priority, _nothing_ is high priority.
-* **Be Actionable:** We should only alert in the case where there are actions which need to be taken by an operator.
+* **Be Actionable:** We should only alert in the case where there are actions which are able to be taken by a responder. If you alert on things that the responder can't do anything about, you're just training them to ignore that service in the future.
+* **Be Brief:** Include all the information the responder needs in the first screen. Specify which of those lines are the actual problem instead of making the responder have to guess. We're probably reading the alert on a phone and no one wants to wade through 40 screens to figure out which two lines the page is complaining about.
 * **Be Documented:** A runbook should be attached to the page, detailing the actions required of the operator.
 * **Be Reviewed:** A monthly meeting should discuss type & volume of pages, to ensure that monitoring hygiene does not degenerate over time, and the appropriate priorities are set forth for auto-remediating high volume alerts.
-* **Be Brief:** Include all the information the responder needs in the first screen. Specify which of those lines are the actual problem instead of making the responder have to guess. We're probably reading it on a phone and no one wants to wade through 40 screens to find the two lines that the page is complaining about
+* **Be Specific:** Include the full, human readable name AND the DNS name(s) of the service which is alerting. Don't make a responder have to guess where the problem really is.
+* **Include Priority:** Is this a performance issue? Is this going to cause a site outage if not triaged? Or is this page indicative of a site outage? Pages should be specific about their Urgency (low, medium, high). Remember though, if everything is high priority, _nothing_ is high priority.

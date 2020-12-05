@@ -15,9 +15,9 @@
 
 # Copyright Assignment
 
-- [ ] This document is covered by the [Apache 2.0 License](https://github.com/unixorn/awesome-zsh-plugins/blob/master/LICENSE), and I agree to contribute this PR under the terms of the license.
+- [ ] This document is covered by the [Apache 2.0 License](https://github.com/unixorn/chocolate-factory-engineering-docs/blob/master/LICENSE), and I agree to contribute this PR under the terms of the license.
 
-# Checklist:
+# Checklist
 
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 - [ ] I have confirmed that any link(s) in my PR are valid.

@@ -7,6 +7,7 @@
 
 A collection of hopefully useful document templates for engineering orgs.
 
-* [Engineering Design Document Template](https://github.com/unixorn/engineering-docs/blob/master/Engineering_Design_Document.md) - An engineering project design document template inspired by one of the internal ones I saw in the chocolate factory.
-* [Monitoring Guidelines](https://github.com/unixorn/engineering-docs/blob/master/Monitoring-Guidelines.md) - A brief list of guidelines for good monitoring dashboards.
-* [Safe Data Handling During Incidents](https://github.com/unixorn/engineering-docs/blob/master/Safe_Data_Handling_During_Incidents.md) - A short list of guidelines to keep in mind during incident response.
+* [Alert Requirements]((https://github.com/unixorn/chocolate-factory-engineering-docs/blob/master/Alert_Requirements.md)) - A brief set of guidelines for creating alerts.
+* [Engineering Design Document Template](https://github.com/unixorn/chocolate-factory-engineering-docs/blob/master/Engineering_Design_Document.md) - An engineering project design document template inspired by one of the internal ones I saw in the chocolate factory.
+* [Monitoring Guidelines](https://github.com/unixorn/chocolate-factory-engineering-docs/blob/master/Monitoring-Guidelines.md) - A brief list of guidelines for good monitoring dashboards.
+* [Safe Data Handling During Incidents](https://github.com/unixorn/chocolate-factory-engineering-docs/blob/master/Safe_Data_Handling_During_Incidents.md) - A short list of guidelines to keep in mind during incident response.

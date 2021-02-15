@@ -9,9 +9,8 @@
 # Engineering-docs
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Funixorn%2Fchocolate-factory-engineering-docs%2Fbadge&style=flat)](https://actions-badge.atrox.dev/unixorn/chocolate-factory-engineering-docs/goto)
-[![GitHub stars](https://img.shields.io/github/stars/unixorn/engineering-docs.svg)](https://github.com/unixorn/chocolate-factory-engineering-docs/stargazers)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/unixorn/engineering-docs/master.svg)](https://github.com/unixorn/chocolate-factory-engineering-docs)
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Funixorn%2Fchocolate-factory-engineering-docs%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev/unixorn/chocolate-factory-engineering-docs/goto?ref=main)
+[![GitHub last commit (main)](https://img.shields.io/github/last-commit/unixorn/engineering-docs/main.svg)](https://github.com/unixorn/chocolate-factory-engineering-docs)
 
 A collection of hopefully useful document templates for engineering orgs.
 

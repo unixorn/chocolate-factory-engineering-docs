@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: docker://dkhamsing/awesome_bot:latest
         with:
           args: /github/workspace/README.md  --allow-dupe --request-delay 1 --allow-redirect --white-list https://ipfs.io,slideshare,https://img.shields.io,https://codeclimate.com/github/unixorn/chocolate-factory-engineering-docs
